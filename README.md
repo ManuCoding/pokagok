@@ -1,3 +1,3 @@
-# POKAGOK Studio
+# Pokagok Studio
 
 A nice app for serious music production.
